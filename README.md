@@ -1,2 +1,1 @@
-# stepik_auto_tests_course
-Stepik
+Здесь приведена первая задача из курса степик
